@@ -1,11 +1,9 @@
 package com.kodilla;
 
-import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 class EuclideanAlgorithm {
-
     public int a;
     public int b;
 
@@ -41,10 +39,3 @@ class EuclideanAlgorithm {
     }
 }
 
-class App {
-
-    public static void main(String[] args) {
-        EuclideanAlgorithm object = new EuclideanAlgorithm(37083, 1645);
-        object.calculateGreatestCommonDivisor();
-    }
-}

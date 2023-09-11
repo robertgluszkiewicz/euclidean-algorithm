@@ -1,0 +1,4 @@
+com/kodilla/App.java
+ com.kodilla.App
+com/kodilla/EuclideanAlgorithm.java
+ com.kodilla.EuclideanAlgorithm
